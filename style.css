@@ -1,0 +1,30 @@
+*{
+    font-family: "Azeret Mono", monospace;
+    margin: 0;
+    padding: 0;
+}
+
+/* nav styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 150px;
+    align-items: center;
+}
+.nav-title{
+    font-size: 28px;
+    font-weight: 800;
+    padding-top: 50px;
+    padding-bottom: 48px;
+}
+.nav-download-resume{
+    font-size: 20px;
+    font-weight: 600;
+}
+.nav-download-resume button{
+    padding: 17px 24px;
+    color: #0D1321;
+    background-color: white;
+    border: 1px solid #0D1321;
+    border-radius: 8px;
+}
