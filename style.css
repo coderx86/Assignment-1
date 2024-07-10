@@ -289,3 +289,15 @@ nav{
     border-radius: 8px;
     border: none;
 }
+/* footer style */
+footer{
+    background-color: rgba(13, 19, 33, 0.03);
+    padding: 32px 150px;
+    align-items: center;
+}
+footer h3{
+    font-weight: 600px;
+}
+footer div img{
+    height: 36px;
+}
