@@ -252,3 +252,40 @@ nav{
 #nodejs{
     height: 88px;
 }
+
+/* need-support styles */
+.need-support{
+    background-image: url(assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 16px;
+    text-align: center;
+    width: 1140px;
+    padding: 64px 48px;
+    margin: 0px 150px 80px;
+    background-blend-mode: overlay;
+}
+.need-support-content h2{
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.need-support-content p{
+    line-height: 26px;
+    color: #FFFFFF;
+    margin: 16px auto 24px;
+}
+.submit-form input{
+    background-color: #FFFFFF;
+    padding: 19px 215px 19px 20px;
+    border-radius: 8px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+}
+.submit-form span button{
+    font-weight: 600;
+    background-color: #FFFFFF;
+    padding: 17px 20px;
+    border-radius: 8px;
+    border: none;
+}
