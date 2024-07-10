@@ -131,3 +131,24 @@ nav{
     width: 468px;
     margin-bottom: 32px;
 }
+
+/* my inspiration styles */
+.my-inspiration-container{
+    text-align: center;
+    gap: 48px;
+}
+.my-inspiration-content h2{
+    font-weight: 800;
+    font-size: 32px;
+    width: 852px;
+    margin-bottom: 24px;
+}
+.my-inspiration-content p{
+    font-size: 16px;
+    width: 852px;
+}
+.my-inspiration-iframe{
+    padding: 32px;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+}
